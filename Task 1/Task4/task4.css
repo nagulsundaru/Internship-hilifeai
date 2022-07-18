@@ -4,6 +4,8 @@ h1{
   background-color: rgb(49, 32, 75);
   text-align: center ;
   border: 2px solid rgb(10, 10, 10);
+  
+
 
 
 
@@ -11,7 +13,10 @@ h1{
 
 body{
   
-  background-image: url("https://image.winudf.com/v2/image1/Y29tLmJlc3QubGl2ZS53YWxscGFwZXIuYmFja2dyb3VuZHMuaGQudGhlbWUuZ2lybHkud2FsbHBhcGVycy5pbWFnZXMubHdwLmJsYWNrLmxpdmUud2FsbHBhcGVyX3NjcmVlbl85XzE1NTQyNjM3OTRfMDE3/screen-9.jpg?fakeurl=1&type=.webp")  }
+  background-image: url("https://image.winudf.com/v2/image1/Y29tLmJlc3QubGl2ZS53YWxscGFwZXIuYmFja2dyb3VuZHMuaGQudGhlbWUuZ2lybHkud2FsbHBhcGVycy5pbWFnZXMubHdwLmJsYWNrLmxpdmUud2FsbHBhcGVyX3NjcmVlbl85XzE1NTQyNjM3OTRfMDE3/screen-9.jpg?fakeurl=1&type=.webp")
+  
+
+}
 
 
 p {
@@ -28,4 +33,16 @@ span{
 }
 .tasks{
   color: aliceblue;
+}
+.task5{
+  text-align:left ;
+}
+.task6{
+  text-align:left ;
+}
+
+.column {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
 }
