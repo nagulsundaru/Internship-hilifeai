@@ -1,19 +1,31 @@
 
 
 h1{
-  background-color: cyan;
-  
+  background-color: rgb(49, 32, 75);
+  text-align: center ;
+  border: 2px solid rgb(10, 10, 10);
+
+
+
 }
 
 body{
-  background-color: dimgrey;
-}
+  
+  background-image: url("https://image.winudf.com/v2/image1/Y29tLmJlc3QubGl2ZS53YWxscGFwZXIuYmFja2dyb3VuZHMuaGQudGhlbWUuZ2lybHkud2FsbHBhcGVycy5pbWFnZXMubHdwLmJsYWNrLmxpdmUud2FsbHBhcGVyX3NjcmVlbl85XzE1NTQyNjM3OTRfMDE3/screen-9.jpg?fakeurl=1&type=.webp")  }
+
 
 p {
-  background-color: cyan;
+  
    
-  font-family: verdana;
-  font-size: 10px;
-  
-  
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+span{
+  color: rgb(248, 248, 248);
+}
+.work{
+  color: aliceblue;
+}
+.tasks{
+  color: aliceblue;
 }
