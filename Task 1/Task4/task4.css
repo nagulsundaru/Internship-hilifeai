@@ -16,6 +16,7 @@ body{
   background-image: url("https://image.winudf.com/v2/image1/Y29tLmJlc3QubGl2ZS53YWxscGFwZXIuYmFja2dyb3VuZHMuaGQudGhlbWUuZ2lybHkud2FsbHBhcGVycy5pbWFnZXMubHdwLmJsYWNrLmxpdmUud2FsbHBhcGVyX3NjcmVlbl85XzE1NTQyNjM3OTRfMDE3/screen-9.jpg?fakeurl=1&type=.webp")
   
 
+
 }
 
 
@@ -26,7 +27,7 @@ p {
   font-size: 18px;
 }
 span{
-  color: rgb(248, 248, 248);
+  color: rgb(248, 248, 248);  
 }
 .work{
   color: aliceblue;
@@ -43,12 +44,27 @@ span{
 
 .column {
   float: right;
-  width: 33.33%;
-  padding: 5px;
+  width: 34.33%;
+  padding: 6px;
 }
 .string{
+  color: aliceblue;
+}
+.str{
+  color:aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align:left;
+}
+img {
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.color{
+  color: rgb(250, 0, 0);  
+}
+.str1{
   color:aliceblue;
 }
-.string{
-  color:aliceblue;
-}
+
