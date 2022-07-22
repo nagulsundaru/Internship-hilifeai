@@ -12,7 +12,7 @@
 }
 .flex1{
     background-image: url("https://cdn.mos.cms.futurecdn.net/wbjyRLZMXd8MxbsTp6B8UD.jpg" );
-    height: 600px;
+    height: 700px;
 }
 .bnt1{
     text-align: center;
@@ -23,4 +23,13 @@
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #ffffff;
+}
+.bnt3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.flex2{
+    background-image: url("https://cdn1.dotesports.com/wp-content/uploads/2021/09/15131015/iphone-13-specs.jpg");
+    height: 700px;
 }
