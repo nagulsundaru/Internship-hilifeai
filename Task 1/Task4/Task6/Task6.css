@@ -3,7 +3,24 @@
 }
 .flex{
     text-align: center;
-    background-image: url(https://www.cultofmac.com/wp-content/uploads/2022/03/Apple-iPhone13-Pro-alpine-green-hero-2up-220308.jpg);
 }
-
-
+.bnt{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(255, 255, 255)
+    
+}
+.flex1{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/wbjyRLZMXd8MxbsTp6B8UD.jpg" );
+    height: 600px;
+}
+.bnt1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+.bnt2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+}
