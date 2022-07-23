@@ -31,6 +31,11 @@ body{
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }    
-.rss{
-    background-image:conic-gradient(lightblue);
+#rrt{
+    background-image: conic-gradient(red, yellow, green);
+}
+#rrt{
+    background-image: conic-gradient(red, yellow, green);
+}#rrt{
+    background-image: conic-gradient(red, yellow, green);
 }
