@@ -16,20 +16,21 @@ body{
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: small;
-    background-color: rgba(11, 132, 245, 0.76);
     
 }
 .str1{
     text-align: left;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(216, 216, 18);
+    
 }
 .str2{
     text-align: left;
-    background-color: rgb(0, 255, 255);
 }
 .kdb1{
  text-align: left;
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-background-color: aqua;
+
 }    
+.rss{
+    background-image:conic-gradient(lightblue);
+}
