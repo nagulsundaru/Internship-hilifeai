@@ -1,5 +1,35 @@
 .kdb{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: rgb(18, 215, 241);
+}
+.kdb1{
+    color: aliceblue;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/4f/2f/7d/4f2f7d2aa8582dcca07ca3eb600e922b.png");
+    height: 500px;
+}
+.str{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color: rgba(11, 132, 245, 0.76);
     
 }
+.str1{
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(216, 216, 18);
+}
+.str2{
+    text-align: left;
+    background-color: rgb(0, 255, 255);
+}
+.kdb1{
+ text-align: left;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: aqua;
+}    
