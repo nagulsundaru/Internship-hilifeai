@@ -2,15 +2,12 @@
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-span{
-    color: rgb(18, 215, 241);
-}
-.kdb1{
-    color: aliceblue;
-}
 body{
     background-image: url("https://i.pinimg.com/originals/4f/2f/7d/4f2f7d2aa8582dcca07ca3eb600e922b.png");
     height: 500px;
+}
+.press{
+    color: rgba(red);
 }
 .str{
     text-align: left;
@@ -32,10 +29,13 @@ body{
 
 }    
 #rrt{
+ background-image: -o-linear-gradient(red, yellow, green);
+}
+#rrt2{
+    background-image: conic-gradient(red, yellow, green);
+}#rrt3{
     background-image: conic-gradient(red, yellow, green);
 }
-#rrt{
-    background-image: conic-gradient(red, yellow, green);
-}#rrt{
-    background-image: conic-gradient(red, yellow, green);
+#cbb{
+    color: black;
 }
